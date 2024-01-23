@@ -24,9 +24,3 @@ Encryption: Protect the recorded data with advanced encryption techniques to ens
 - pillow
 - sounddevice
 
-
-
-## Authors
-
-- [@textpriyam](https://www.github.com/textpriyam)
-
